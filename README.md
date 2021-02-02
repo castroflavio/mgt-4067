@@ -1,2 +1,7 @@
-# mgt-4067
-In this repo I create jupyter notebook examples for the gatech MGT-4067 class: Fncl Mkts Trading&amp;Struct 
+## Quickstart
+docker-compose -d up
+
+## Dependencies
+docker
+docker-compose
+jupyter-scipy docker image( or internet access)
